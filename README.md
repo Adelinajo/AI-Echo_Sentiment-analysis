@@ -1,2 +1,2 @@
 # AI-Echo_Sentiment-analysis
-Sentiment Analysis for chatGpt review
+Sentiment analysis is a natural language processing (NLP) method that evaluates the emotions conveyed in text. In this project, user reviews of the ChatGPT application are examined and categorized as positive, neutral, or negative. The objective is to uncover patterns in customer satisfaction, highlight recurring issues, and generate insights that can guide improvements to the overall user experience.Understanding Sentiment over review . Analyze the dataset and preprocess the dataset by cleaning stopwords, special characters,punctuations, missing values,converting all text to lowercase is done .
